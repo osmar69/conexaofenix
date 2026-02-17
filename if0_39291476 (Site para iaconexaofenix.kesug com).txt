@@ -1,0 +1,22 @@
+Conta if0_39291476 (Site para iaconexaofenix.kesug.com) criada!
+Sua conta foi criada com o nome de usuário if0_39291476 ! Aqui estão algumas coisas que você precisa saber:
+
+A configuração da sua conta levará alguns minutos.
+Pode levar até 72 horas para que o novo domínio fique visível em todos os lugares, devido ao cache de DNS.
+Faça login no painel de controle uma vez para habilitar todos os recursos.
+Não sabe o que fazer a seguir? Consulte este guia para obter algumas ideias sobre como começar.
+
+
+senha da conta da nova hospedagem:9djkbzbjJINdd
+
+---------------------------------------------------------------------------
+
+Detalhes de FTP para if0_39291476
+Nome de usuário FTP
+if0_39291476 
+Senha FTP
+9djkbzbjJINdd  
+Nome do host FTP
+ftpupload.net
+Porta FTP (opcional)
+21
